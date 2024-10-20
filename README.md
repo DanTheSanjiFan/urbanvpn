@@ -16,7 +16,7 @@
 
 To install **Urban VPN** on Windows using Google Chrome, follow these steps:
 
-1. **Download the raw file**: Download the raw `.zip` file for the Urban VPN extension from the [releases page](#).
+1. **Download the raw file**: Download the .zip` file for the Urban VPN extension from the 
    
 2. **Unzip the folder**: Once downloaded, unzip the folder to a location on your computer where you can easily find it (e.g., your Desktop or Documents).
 
